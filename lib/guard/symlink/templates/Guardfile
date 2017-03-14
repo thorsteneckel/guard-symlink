@@ -1,0 +1,3 @@
+guard :symlink, ignore: [] do
+  watch(/.*/)
+end
