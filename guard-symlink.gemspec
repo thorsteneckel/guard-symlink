@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Thorsten Eckel']
   spec.email         = ['te@znuny.com']
 
-  spec.summary       = 'Guard to symlink a watched folder recursivly into the current.'
-  spec.description   = 'Guard to symlink a watched folder recursivly into the current.'
+  spec.summary       = 'Guard to symlink watched folders recursively into the current.'
+  spec.description   = 'Guard to symlink watched folders recursively into the current.'
   spec.homepage      = 'https://github.com/thorsteneckel/guard-symlink'
   spec.license       = 'MIT'
 
