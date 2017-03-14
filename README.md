@@ -26,7 +26,7 @@ Add guard definition to your Guardfile by running this command:
 
 Available options:
 
-* :cmd - an Array of files that should get ignored.
+* :ignore - an Array of files that should get ignored.
 
 ## Contributing
 
