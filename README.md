@@ -4,7 +4,7 @@ Symlink guard allows you automatically link all files from watched folders to yo
 
 ## Installation
 
-Please be sure to have (Guard)[https://github.com/guard/guard] installed before continue.
+Please be sure to have [Guard](https://github.com/guard/guard) installed before continue.
 
 Install the gem:
 
